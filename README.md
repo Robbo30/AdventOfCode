@@ -3,7 +3,7 @@
 #### **_Advent of Code_** is a 25 day long coding challange themed around Christmas, it is designed to test your coding and problem solving skills in a fun way. Each challange can be solved in any programming language of your choice as long, all that matters is if you get the right answer! 
 ## Days
 ---
-- [x] Day 1 (Trebuchet?!) ⭐⭐                                                                                 ## 2023 Total:
+- [x] Day 1 (Trebuchet?!) ⭐⭐                                                                                 
 - [x] Day 2 (Code Conudrum) ⭐⭐                                                                                
 - [x] Day 3 (Gear Ratios) ⭐⭐
 - [x] Day 4 (Scratchcards) ⭐⭐
@@ -29,6 +29,7 @@
 - [ ] Day 24 (Never Tell Me The Odds)
 - [ ] Day 25 (Snowverload)
 
+## 2023 Total: 40 ⭐
 
 
 
