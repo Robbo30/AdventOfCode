@@ -1,7 +1,7 @@
 # **Advent Of Code**
 ---
 ### **_Advent of Code_** is a 25 day long coding challange themed around Christmas, it is designed to test your coding and problem solving skills in a fun way. Each challange can be solved in any programming language of your choice as long, all that matters is if you get the right answer! 
-### Days
+## Days
 ---
 - [x] Day 1 (Trebuchet?!) ⭐⭐
 - [x] Day 2 (Code Conudrum) ⭐⭐
